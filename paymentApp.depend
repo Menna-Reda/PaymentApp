@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1671333701 source:c:\users\dell\documents\c project\new folder\paymentapp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"app/app.h"
+	<string.h>
+	"testFunctions.h"
+
+1670791769 source:c:\users\dell\documents\c project\new folder\paymentapp\card.c
+	"card.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1670789132 c:\users\dell\documents\c project\new folder\paymentapp\card.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1670354457 source:c:\users\dell\documents\c project\new folder\paymentapp\terminal.c
+	"terminal.h"
+	"card.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1669823184 c:\users\dell\documents\c project\new folder\paymentapp\terminal.h
+	"card.h"
+
+1670949981 source:c:\users\dell\documents\c project\new folder\paymentapp\app.c
+	"app.h"
+
+1670951435 source:c:\users\dell\documents\c project\new folder\paymentapp\server.c
+	"server.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1670343733 c:\users\dell\documents\c project\new folder\paymentapp\server.h
+	"terminal.h"
+
+1669884470 c:\users\dell\documents\c project\new folder\paymentapp\app.h
+	"server.h"
+
+1671698626 c:\users\dell\documents\c project\new folder\paymentapp\testfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	"app/app.h"
+	<string.h>
+
+1671333701 source:c:\users\dell\documents\c project\new folder\paymentapp\card\card.c
+	"card.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1670789132 c:\users\dell\documents\c project\new folder\paymentapp\card\card.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1671700376 source:c:\users\dell\documents\c project\new folder\paymentapp\server\server.c
+	"server.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1671699481 c:\users\dell\documents\c project\new folder\paymentapp\server\server.h
+	"../terminal/terminal.h"
+
+1671333701 c:\users\dell\documents\c project\new folder\paymentapp\terminal\terminal.h
+	"../Card/card.h"
+
+1671698506 source:c:\users\dell\documents\c project\new folder\paymentapp\terminal\terminal.c
+	"terminal.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1671698521 c:\users\dell\documents\c project\new folder\paymentapp\app\app.h
+	"../server/server.h"
+
+1671699495 source:c:\users\dell\documents\c project\new folder\paymentapp\app\app.c
+	"app.h"
+
